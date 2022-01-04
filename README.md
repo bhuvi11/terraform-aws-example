@@ -1,4 +1,6 @@
 # terraform-aws-example
+
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/5407fb59-f257-463f-a777-7d96a8d68f3f.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/terraform-aws-example?orgId=560723739106)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/7a8c235e-1a37-47bc-a4d0-c983e2257692.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/terraform-aws-example?orgId=560723739106)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/8babf22c-067c-4c90-bef6-0373266500ae.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/terraform-aws-example?orgId=560723739106)  
 Bridgecrew AWS ReadOnly Integration
 Maintained by Bridgecrew.io GitHub tag (latest SemVer) Terraform Version Infrastructure Tests
 
